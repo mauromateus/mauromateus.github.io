@@ -1,1 +1,8 @@
-[]
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.mauromateus.marea",
+        "sha256_cert_fingerprints": ["53:49:15:8E:9F:B9:C7:74:40:AF:2F:CB:6B:87:67:AF:D3:EB:E7:A9:FB:01:09:07:A7:3E:63:88:A7:EB:EF:E8"]
+      }
+    }]
